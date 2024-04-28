@@ -5,3 +5,4 @@ This is a sample website made as part of [*Learn Enough Git to Be Dangerous*](ht
 After finisht *Learn Enough Git to Be Dangerous*, you will know enough Git to be *Dangerous*. This means You'll be able to use Git to track change in your prjects, share your work with other, back up data and collabarate with programmers and other user of Git.
 
 For more information on Git, see the the [official Git documentation](https://git-scm.com/)
+...
